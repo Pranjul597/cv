@@ -1,0 +1,99 @@
+body{
+text-align:center;
+margin:0;
+font-family:'Merriweather', serif;
+}
+h1{
+color:#66BFBF;
+margin:50px auto 0 auto;
+font-size:562.5%;
+font-family:'Sacramento', cursive;
+}
+h2{
+padding:15px;
+color:#66BFBF;
+font-size:2.5rem;
+font-weight:normal;
+}
+h3{
+color:#11999E;
+}
+a{
+color: #11999E;
+}
+.skill-row{
+width:50%;
+margin:100px auto 100px auto;
+text-align:left;
+line-height:2;
+}
+.top-cloud{
+position:absolute;
+top:50px;
+right:400px;
+}
+.bottom-cloud{
+position:absolute;
+left:300px;
+}
+.top-container{
+position:relative;
+background-color:#CDF0EA;
+padding:100px;
+}
+
+.middle-container{
+margin:100px 0;
+}
+.bottom-container{
+padding:25px;
+background-color:#66BFBF;
+margin:0;
+}
+.cricket{
+width:25%;
+float:left;
+border-radius:100%;
+margin-right:15px;
+}
+.computer{
+border-radius:100%;
+float:right;
+width:25%;
+margin-left:15px;
+}
+.profile_image{
+margin-top:25px;
+width:25%;
+border-radius:100%;
+}
+.btn{
+position:relative;
+top:35px;
+font-size:90%;
+text-decoration:none;
+padding:10px;
+border-radius:8px;
+color:white;
+background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+padding:10px 20px 10px 20px;
+
+}
+hr{
+border:none;
+border-top:7px dotted;
+color:#868a8a;
+width:4%;
+}
+.footpara{
+font-size:80%;
+color:#EAF6F6;
+line-height:4;
+margin:0px;
+}
+.footer-link{
+padding:10px;
+margin-bottom:10px;
+color:#11999E;
+text-decoration:none;
+}
